@@ -17,5 +17,9 @@ namespace WinFormsApp2
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("のほほほ　押しましたね", "えろー",MessageBoxButtons.OKCancel);
+        }
     }
 }
