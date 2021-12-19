@@ -19,7 +19,7 @@ namespace WinFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("のほほほ　押しましたね", "えろー",MessageBoxButtons.OKCancel);
+            MessageBox.Show("のほほほ　押しましたねとか馬鹿にしている", "えろー",MessageBoxButtons.OKCancel);
         }
     }
 }
