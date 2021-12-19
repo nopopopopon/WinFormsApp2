@@ -21,5 +21,10 @@ namespace WinFormsApp2
         {
             MessageBox.Show("のほほほ　押しましたねとか馬鹿にしている", "えろー",MessageBoxButtons.OKCancel);
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
