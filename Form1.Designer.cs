@@ -79,7 +79,7 @@
             this.label3.Size = new System.Drawing.Size(222, 32);
             this.label3.TabIndex = 3;
             this.label3.Text = "VS2022がこれからじゃ";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
+            //this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // pictureBox1
             // 
